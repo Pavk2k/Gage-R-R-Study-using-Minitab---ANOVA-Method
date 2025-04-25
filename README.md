@@ -6,7 +6,7 @@ This project showcases a Gage Repeatability and Reproducibility (Gage R&R) study
 
 ## 📁 Files and Structure
 
-### `/data/02_05_LCM.xls`
+### `/data/02_05_LCM.xls` ( Not Included )
 - Contains measurement data collected across multiple parts and operators.
 - Data is used to assess the measurement system's consistency and reliability.
 
